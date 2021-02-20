@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello CICD 2
+          GuuTAR
         </a>
       </header>
     </div>
